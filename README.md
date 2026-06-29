@@ -4,11 +4,7 @@
 
 این ریپو برای تکلیف GitHub Pages دانشگاهه. یه سایت ساده ساختم با HTML و CSS که معرفی خودم باشه.
 
-## لینک سایت
-
-بعد از فعال شدن Pages اینجا باز میشه:
-
-https://AliSadrabadi.github.io/page/
+##
 
 ## داخل پروژه چی هست؟
 
@@ -21,4 +17,3 @@ https://AliSadrabadi.github.io/page/
 
 - HTML5
 - CSS3
-- GitHub Pages
